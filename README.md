@@ -31,4 +31,4 @@ Twitter
 LinkedIn
 Thanks for visiting my profile. Let's code, learn, and grow together! 🚀
 
-Hvae a beautiful day! 😊
+Have a beautiful day! 😊
