@@ -1,10 +1,6 @@
 Welcome to My GitHub Profile! 🌟
 
 
-About Me
-
-Hi there! Thanks for stopping by my little corner of GitHub. I'm a coding enthusiast with a keen interest in exploring new technologies. 
-
 😎 Here's a bit about me:
 Coding Explorer: Currently, I'm delving into the world of JavaScript. Up next? Angular and Python!
 
