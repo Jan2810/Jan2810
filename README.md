@@ -6,7 +6,7 @@ Coding Explorer: Currently, I'm delving into the world of JavaScript. Up next? A
 
 Aspiring IT Professional: I'm excited about a future career in the IT industry and am always on the lookout for learning opportunities.
 
-Friendly Introvert: I enjoy meeting kind and supportive people. If you're into coding and enjoy a good chat, let's connect!
+I enjoy meeting kind and supportive people. If you're into coding and enjoy a good chat, let's connect!
 
 What I’m Working On 
 These days, I'm focused on honing my JavaScript skills. As I get more comfortable, I'll be expanding my horizons with Angular and Python. If you have any tips or resources, feel free to share them with me!
